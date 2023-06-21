@@ -1,0 +1,3 @@
+git remove: rm
+git rename:mv
+gi remove type: rm --cached
